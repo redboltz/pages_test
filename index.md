@@ -10,5 +10,6 @@ https://github.com/redboltz/pages_test/blob/ec3c319cb6dd80b6281be7b92df56419dfca
 
 update
 
-<a href="test.html"> HTML </a?
+[doc/test.html]
+
   
