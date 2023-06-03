@@ -10,6 +10,6 @@ https://github.com/redboltz/pages_test/blob/ec3c319cb6dd80b6281be7b92df56419dfca
 
 update
 
-[doc/test.html]
+[test](doc/test.html)
 
   
